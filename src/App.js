@@ -47,7 +47,7 @@ class App extends Component {
                 className="btn btn-danger"
                 onClick={this.removeTodo.bind(this, i)}
               >
-                Delete
+                BORRAR
               </button>
             </div>
           </div>
