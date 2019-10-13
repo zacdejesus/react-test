@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "task 1",
+      "responsable": "diego",
+      "description": "priority",
+      "priority": "low"
+    },
+    {
+      "title": "task 2",
+      "responsable": "brytiagi",
+      "description": "dormir",
+      "priority": "high"
+    },
+    {
+      "title": "task 3",
+      "responsable": "diego",
+      "description": "comer",
+      "priority": "low"
+    },
+    {
+      "title": "task 4",
+      "responsable": "perro",
+      "description": "apuro",
+      "priority": "medium"
+    }
+  ]
+}
